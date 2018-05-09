@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ZF International", "..\..\..\asp.net\ZF International\", "{54B87DD9-0D4D-47FA-A495-789929EEB4B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/ZF International"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\asp.net\ZF International\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ZF International\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ZF International"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\asp.net\ZF International\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ZF International\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "17979"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B87DD9-0D4D-47FA-A495-789929EEB4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B87DD9-0D4D-47FA-A495-789929EEB4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
