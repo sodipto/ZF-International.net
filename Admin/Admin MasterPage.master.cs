@@ -17,13 +17,12 @@ public partial class Admin_Admin_MasterPage : System.Web.UI.MasterPage
 
         }
 
-        else
-        {
+        else {
 
 
             username.Text = Session["username"].ToString();
-
-
+        
+        
         }
     }
 
